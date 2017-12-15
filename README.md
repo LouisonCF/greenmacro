@@ -1,2 +1,2 @@
 # greenmacro
-Repository for the green macro models
+Louison's repository for the green macro models
